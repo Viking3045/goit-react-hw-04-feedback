@@ -1,0 +1,8 @@
+.section{
+    /* margin-right: auto;
+    margin-left: auto; */
+    display:flex ;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}

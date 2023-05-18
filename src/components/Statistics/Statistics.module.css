@@ -1,0 +1,15 @@
+.list{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.item{
+    list-style: none;
+    padding: 5px;
+}
+.item:hover{
+    background-color: black;
+    color: aliceblue;
+    cursor: cell;
+    scale: 1.2;
+ 
+}

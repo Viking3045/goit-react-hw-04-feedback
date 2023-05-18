@@ -1,0 +1,18 @@
+.list{
+    margin-left: 100px;
+    display:flex;
+    gap:20px
+}
+.button{
+    padding: 10px;
+    color:brown;
+    background-color:green;
+}
+.button:hover{
+    scale: 1.3;
+    color: blue;
+    background-color: #fff;
+    cursor: pointer;
+}
+.item{
+list-style: none;}
